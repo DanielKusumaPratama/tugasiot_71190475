@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "413142462337",
+    "firebase_url": "https://danieliot-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "danieliot",
+    "storage_bucket": "danieliot.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:413142462337:android:7be03450718c9c60260280",
+        "android_client_info": {
+          "package_name": "com.example.miniproject4"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "413142462337-32ab53r32us6b4vgrckselvbk9iv0v0k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtqsFUlhYt2-unEN98hJWrkP0_QIfejJA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "413142462337-32ab53r32us6b4vgrckselvbk9iv0v0k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
